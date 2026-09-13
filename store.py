@@ -13,6 +13,7 @@ def calculate_total(
 
     if total > 50:
         total = total * 0.9 
+
     # TODO: apply your assigned feature's pricing rule here, gated behind
     # its argument (apply_discount, apply_tax, or apply_shipping)
 
